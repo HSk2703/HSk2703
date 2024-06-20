@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Development Course by IBM
 - 💞️ I’m looking to collaborate on the related projects
 - 📫 You can reach me at hs.ira0503@gmail.com
-- 😄 Pronouns: Ferocious 🔥 | Aries ♈︎ | ESTJ 💼
+- 😄 Pronouns: She/Her ♀ | Ferocious 🔥 | Aries ♈︎ | ESTJ 💼
 - ⚡ Fun fact: I'm a newbie to Github, enthusiastic, crazy, wild, yet a little nervous.
 
 <!---

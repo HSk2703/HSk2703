@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Hira @HSk2703
+- 👀 I am a Certified Blockchain Expert™, Certified Cloud Native Developer, Shopify Expert, and UX/UI Auditor
+- 🌱 I’m currently learning Full Stack Development Course by IBM
+- 💞️ I’m looking to collaborate on the related projects
+- 📫 You can reach me at hs.ira0503@gmail.com
+- 😄 Pronouns: Ferocious 🔥 | Aries ♈︎ | ESTJ 💼
+- ⚡ Fun fact: I'm a newbie to Github, enthusiastic, crazy, wild, yet a little nervous.
+
+<!---
+HSk2703/HSk2703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

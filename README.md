@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the related projects
 - 📫 You can reach me at hs.ira0503@gmail.com
 - 😄 Pronouns: She/Her ♀ | Ferocious 🔥 | Aries ♈︎ | ESTJ 💼
-- ⚡ Fun fact: I'm a newbie to Github, enthusiastic, crazy, wild, yet a little nervous.
+- ⚡ Fun fact: I'm enthusiastic, crazy, wild, yet a little nervous.
 
 <!---
 HSk2703/HSk2703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

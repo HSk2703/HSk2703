@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hira @HSk2703
 - 👀 I am a Certified Blockchain Expert™, Certified Cloud Native Developer, Shopify Expert, and UX/UI Auditor
 - 🌱 I’m currently learning Full Stack Development Course by IBM
-- 💞️ I’m looking to collaborate on the related projects
+- 💞️ I’m looking forward to collaborating on the related projects
 - 📫 You can reach me at hs.ira0503@gmail.com
 - 😄 Pronouns: She/Her ♀ | Ferocious 🔥 | Aries ♈︎ | ESTJ 💼
 - ⚡ Fun fact: I'm enthusiastic, crazy, wild, yet a little nervous.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hira @HSk2703
 - 😄 Pronouns: She/Her ♀ | Ferocious 🔥 | Aries ♈︎ | ESTJ 💼
-- 🌟 Tech in Business Enthusiast | Certified Full Stack Software Developer from IBM | Certified Blockchain Expert 
+- 🌟 Tech in Business Enthusiast | IBM Certified Full Stack Software Developer | Certified Blockchain Expert 
 - 💡 Building robust solutions with AI, Web3, and Blockchain
 - 🛒 Expert in Shopify store development, theme customization, and app integrations
 - 🌱 Specialize in creating seamless e-commerce experiences using Liquid, HTML/CSS, JavaScript, and Shopify APIs

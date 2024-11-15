@@ -8,7 +8,7 @@
 - 🎓 Currently learning advanced Solidity
 - 💞️ I’m looking forward to collaborating on the related projects
 - ⚡ Fun fact: I'm enthusiastic, crazy, wild, yet a little nervous
-- 📫 You can reach me at hs.ira0503@gmail.com
+- 📫 You can ping me at hs.ira0503@gmail.com
 
 <!---
 HSk2703/HSk2703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

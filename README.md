@@ -1,16 +1,54 @@
-- 👋 Hi, I’m Hira @HSk2703
-- 😄 Pronouns: She/Her ♀ | Ferocious 🔥 | Aries ♈︎ | ESTJ 💼
-- 🌟 Tech in Business Enthusiast | IBM Certified Full Stack Software Developer | Certified Blockchain Expert 
-- 💡 Building robust solutions with AI, Web3, and Blockchain
-- 🛒 Expert in Shopify store development, theme customization, and app integrations
-- 🌱 Specialize in creating seamless e-commerce experiences using Liquid, HTML/CSS, JavaScript, and Shopify APIs
-- 🧩 Developed custom Shopify apps and themes to enhance store functionalities
-- 🎓 Currently learning advanced Solidity
-- 💞️ I’m looking forward to collaborating on the related projects
-- ⚡ Fun fact: I'm enthusiastic, crazy, wild, yet a little nervous
-- 📫 Drop me at hs.ira0503@gmail.com
+# Hi, I'm Hira 👋  
+🚀 **Tech Entrepreneur | Full-Stack Developer | Blockchain Expert | AI Enthusiast**
 
-<!---
-HSk2703/HSk2703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🏆 About Me
+I am a **Full-Stack Developer and Certified Blockchain Expert™**, specializing in **AI-powered applications, Blockchain integrations, and scalable Web & Mobile solutions**. With a strong background in **System Implementation, UI/UX, and Ecommerce AI**, I have built and contributed to several innovative projects that bridge the gap between cutting-edge technology and practical business applications.
+
+On GitHub, I actively develop and contribute to **AI-driven platforms, Web3-based decentralized apps, Ecommerce tools, and financial management systems**. My tech stack includes **Next.js, React.js, Express.js, Django, Flask, Solidity, Thirdweb, AWS, Docker, and Kubernetes**.
+
+---
+
+## 🛠️ Expertise & Tech Stack
+🔹 **Full-Stack Development**: Next.js, React.js, Express.js, Django, Flask  
+🔹 **Blockchain & Web3**: Solidity, Thirdweb, Smart Contracts, Ethereum  
+🔹 **AI & Machine Learning**: Watson NLP, Sentiment Analysis, AI Chatbots  
+🔹 **Ecommerce & Business**: Shopify, AI-powered Stores  
+🔹 **Cloud & DevOps**: AWS, Docker, Kubernetes, OpenShift, GitHub Actions  
+🔹 **System Implementation**: Account Information Systems (AIS), ERP Integration  
+
+---
+
+## 🔥 Featured Projects
+### **1️⃣ AI & Blockchain Innovations**
+- **Mad AI Image Generation** – AI-powered tool for generating images from text prompts using deep learning techniques.
+- **AI Sentiment Analysis App** – NLP-driven sentiment analysis application leveraging Watson NLP to analyze emotions in text.
+- **Express Book Review App** – A backend-powered book review system using Express.js and MongoDB.
+- **Django Auth System** – A robust authentication system with JWT for secure user login and session management.
+
+### **2️⃣ Web & Mobile Applications**
+- **Django Online Learning Platform** – A complete educational platform offering courses, quizzes, and student management.
+- **Bootstrap Online Learning App** – A visually appealing and responsive UI-based learning application.
+- **React To-Do App** – An interactive task management tool with modern UI components and real-time updates.
+
+### **3️⃣ Ecommerce & Business Solutions**
+- **Shopify E-Commerce Store** – AI-enhanced online shopping experience built with Shopify and integrated with AI-driven recommendations.
+- **Flask Transaction Records** – A secure financial transaction management system for businesses and individuals.
+- **Customer Database Management** – A CRM solution for businesses to track and manage customer interactions efficiently.
+
+For a complete list of my projects, check my repositories **[here](https://github.com/HSk2703?tab=repositories)**.
+
+---
+
+## 📈 GitHub Stats
+![HSk2703's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSk2703&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HSk2703&layout=compact&theme=radical)
+
+---
+
+## 📩 Let's Connect!
+📧 **Drop Me**: [hs.ira0503@gmail.com]
+
+🚀 Always open to collaborations, partnerships, and tech discussions!
+

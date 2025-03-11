@@ -1,10 +1,10 @@
 # Hi, I'm Hira 👋  
-🚀 **Tech Entrepreneur | Full-Stack Developer | Blockchain Expert | AI Enthusiast**
+🚀 **Tech Entrepreneur | Full-Stack Developer | Blockchain Expert | AI & Automation Enthusiast**
 
 ---
 
 ## 🏆 About Me
-I am a **Full-Stack Developer and Certified Blockchain Expert™**, specializing in **AI-powered applications, Blockchain integrations, and scalable Web & Mobile solutions**. With a strong background in **System Implementation, UI/UX, and Ecommerce AI**, I have built and contributed to several innovative projects that bridge the gap between cutting-edge technology and practical business applications.
+I am a **Full-Stack Developer and Certified Blockchain Expert™**, specializing in **AI-powered applications, Blockchain integrations, and scalable Web & Mobile solutions**. With a strong background in **System Implementation and AI Automation**, I have built and contributed to several innovative projects that bridge the gap between cutting-edge technology and practical business applications.
 
 On GitHub, I actively develop and contribute to **AI-driven platforms, Web3-based decentralized apps, Ecommerce tools, and financial management systems**. My tech stack includes **Next.js, React.js, Express.js, Django, Flask, Solidity, Thirdweb, AWS, Docker, and Kubernetes**.
 
@@ -14,6 +14,7 @@ On GitHub, I actively develop and contribute to **AI-driven platforms, Web3-base
 🔹 **Full-Stack Development**: Next.js, React.js, Express.js, Django, Flask  
 🔹 **Blockchain & Web3**: Solidity, Thirdweb, Smart Contracts, Ethereum  
 🔹 **AI & Machine Learning**: Watson NLP, Sentiment Analysis, AI Chatbots  
+🔹 **AI Automation**: AI-driven process automation for businesses and applications  
 🔹 **Ecommerce & Business**: Shopify, AI-powered Stores  
 🔹 **Cloud & DevOps**: AWS, Docker, Kubernetes, OpenShift, GitHub Actions  
 🔹 **System Implementation**: Account Information Systems (AIS), ERP Integration  

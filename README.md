@@ -28,13 +28,13 @@ On GitHub, I actively develop and contribute to **AI-driven platforms, Web3-base
 - **Express Book Review App** – A backend-powered book review system using Express.js and MongoDB.
 - **Django Auth System** – A robust authentication system with JWT for secure user login and session management.
 
-### **2️⃣ Web & Mobile Applications**
+### **2️⃣ Web Applications**
 - **Django Online Learning Platform** – A complete educational platform offering courses, quizzes, and student management.
 - **Bootstrap Online Learning App** – A visually appealing and responsive UI-based learning application.
 - **React To-Do App** – An interactive task management tool with modern UI components and real-time updates.
 
 ### **3️⃣ Ecommerce & Business Solutions**
-- **Shopify E-Commerce Store** – AI-enhanced online shopping experience built with Shopify and integrated with AI-driven recommendations.
+- **Shopify E-Commerce Stores** – AI-enhanced online shopping experience built with Shopify and integrated with AI-driven recommendations.
 - **Flask Transaction Records** – A secure financial transaction management system for businesses and individuals.
 - **Customer Database Management** – A CRM solution for businesses to track and manage customer interactions efficiently.
 

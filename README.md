@@ -25,7 +25,7 @@ On GitHub, I actively develop and contribute to **AI-driven platforms, Web3-base
 ### **1️⃣ AI & Blockchain Innovations**
 - **Mad AI Image Generation** – AI-powered tool for generating images from text prompts using deep learning techniques.
 - **AI Sentiment Analysis App** – NLP-driven sentiment analysis application leveraging Watson NLP to analyze emotions in text.
-- **Express Book Review App** – A backend-powered book review system using Express.js and MongoDB.
+- **CodeCraftHub** – A collaborative coding platform with Node.js designed for developers to share, review, and refine their code effectively.
 - **Django Auth System** – A robust authentication system with JWT for secure user login and session management.
 
 ### **2️⃣ Web Applications**

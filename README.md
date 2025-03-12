@@ -49,7 +49,7 @@ For a complete list of my projects, check my repositories **[here](https://githu
 ---
 
 ## 📩 Let's Connect!
-📧 **Drop Me**: [hs.ira0503@gmail.com]
+📧 **Drop Me**: [hira.saleem2703@gmail.com]
 
 🚀 Always open to collaborations, partnerships, and tech discussions!
 

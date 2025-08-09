@@ -1,5 +1,5 @@
 # Hi, I'm Hira 👋  
-🚀 **Tech Entrepreneur | Full-Stack Developer | Blockchain Expert | AI & Automation Enthusiast**
+🚀 **Tech Entrepreneur | Full-Stack Developer | EVM Developer | AI & Automation Enthusiast**
 
 ---
 

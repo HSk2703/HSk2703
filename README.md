@@ -42,12 +42,6 @@ For a complete list of my projects, check my repositories **[here](https://githu
 
 ---
 
-## 📈 GitHub Stats
-![HSk2703's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HSk2703&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HSk2703&layout=compact&theme=radical)
-
----
-
 ## 📩 Let's Connect!
 📧 **Drop Me**: [hira.saleem2703@gmail.com]
 
